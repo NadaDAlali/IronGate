@@ -1,7 +1,5 @@
 # Iron-Gate
-The project provides the service of sharing course & graduation projects of university with the other students to help them create ideas for their projects when they have difficulty with it.
-
-A user can both add project and search for other projects, in addition to edit their own projects. Also, comments can be shared to help develop the project, in addition to ability of contacting the owners of the project.
+Iron Gate is a social networking platform designed to provide software development resources to college students. It aims to make information accessible and understandable for students by incorporating the best features of various platforms. The platform allows students to share course projects and collaborate with programmers and experts for help. It also allows users to save their work and enhances interaction by allowing viewing and discussing errors. The platform creates an environment that stimulates code improvement, allowing documentation and project management. The platform is designed to serve students across all faculties and levels.
 
 
 ## Our Great Team
